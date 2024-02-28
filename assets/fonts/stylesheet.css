@@ -1,0 +1,117 @@
+
+@font-face {
+    font-family: 'anodinabold';
+    src: url('anodina-bold-webfont.woff2') format('woff2'),
+         url('anodina-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'anodinabold_italic';
+    src: url('anodina-bolditalic-webfont.woff2') format('woff2'),
+         url('anodina-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'anodinaextra_bold';
+    src: url('anodina-extrabold-webfont.woff2') format('woff2'),
+         url('anodina-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'anodinaextra_bold_italic';
+    src: url('anodina-extrabolditalic-webfont.woff2') format('woff2'),
+         url('anodina-extrabolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'anodinaextra_light';
+    src: url('anodina-extralight-webfont.woff2') format('woff2'),
+         url('anodina-extralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'anodinaextra_light_italic';
+    src: url('anodina-extralightitalic-webfont.woff2') format('woff2'),
+         url('anodina-extralightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'anodinalight';
+    src: url('anodina-light-webfont.woff2') format('woff2'),
+         url('anodina-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'anodinalight_italic';
+    src: url('anodina-lightitalic-webfont.woff2') format('woff2'),
+         url('anodina-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'anodinaregular';
+    src: url('anodina-regular-webfont.woff2') format('woff2'),
+         url('anodina-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'anodinaregular_italic';
+    src: url('anodina-regularitalic-webfont.woff2') format('woff2'),
+         url('anodina-regularitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

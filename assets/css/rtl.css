@@ -1,0 +1,294 @@
+section.header-area {
+    direction: ltr;
+}
+
+section.home2-hero {
+    direction: ltr;
+}
+section.team {
+    direction: ltr;
+}
+.rb-text {
+    text-align: right;
+}
+.ah-content {
+    text-align: right;
+    position: relative;
+    left: 0;
+    right: 52px;
+}
+.h-image::before {
+    
+    right: 0;
+}
+.about-content {
+    text-align: right;
+}
+.ab-image {
+    left: 0;
+}
+.single-service {
+    text-align: right;
+}
+.si-v::before {
+    right: 6px;
+    left: unset;
+}
+
+.si-com::before {
+    top: 17px;
+    left: unset;
+    right: 5px;
+}
+.si-db::before {
+    top: 19px;
+    right: 6px;
+    left: unset;
+}
+
+.si-w::before {
+    top: 24px;
+    right: 9px;
+    left: unset;
+}
+.si-ap::before {
+    right: 6px;
+    left: unset;
+}
+
+.si-cg::before {
+    top: 15px;
+    left: unset;
+    right: 6px;
+}
+.sb-text {
+    text-align: right;
+}
+
+section.recent-work.rw-3 h1 {
+    margin: auto;
+    text-align: center;
+}
+section.home6-hero {
+    direction: ltr;
+}
+section.our-service.os-4 h1 {
+ 
+    left: 45%;
+}
+
+section.recent-work.rw-4 h2 {
+
+    left: 41%;
+}
+
+section.home-9 {
+    direction: ltr;    
+}
+
+.slider-9-text {
+    text-align: right;
+}
+
+section.slide-h10 {
+    direction: ltr;
+}
+ul.nav-pages li::after {
+    right: 98px;
+    transform: rotate(-2deg);
+    top: 6px;
+}
+
+ul.nav-pages li:last-child::after {
+    right: 100%;
+}
+ul.hn-pages>li:after {
+    right: 60px;
+}
+
+section.contact-map::before {
+    right: 0;
+}
+section.testimonials {
+    direction: ltr;
+}
+.h-10-image {
+    right: -40px;
+}
+.test-content-wrapper {
+    text-align: right;
+}
+section.video h1 {
+    text-align: right;
+}
+.ui-ux-content {
+    padding-left: 0;
+    right: 50px;
+}
+.ui-ux-content p {
+    text-align: right;
+}
+section.u-pragrap-s p {
+    text-align: right;
+}
+.ui-ux-content-2 {
+    padding: 50px 0px 0px 50px;
+    position: relative;
+}
+.ff-2 .ff-flat:before {
+    color: #ffffff;
+}
+.ff-2 span.cap-m {
+    color: #ffffff;
+}
+.ff-2 .ff-text p {
+    color: #ffffff;
+}
+.ab-rf-text {
+    text-align: right;
+}
+.ab-rf-text2 {
+    text-align: right;
+}
+.h-10-ab-content {
+    text-align: right;
+}
+.our-mission-content.om-cont {
+    padding-left: 0;
+    border: none;
+    text-align: right;
+}
+.our-mission-content {
+    position: relative;
+    border-left: 2px solid #707070;
+    text-align: right;
+    border-right: 0;
+}
+.ws-text {
+    text-align: right;
+}
+.message-box {
+    left: 0;
+}
+.md-top2 {
+    text-align: right;
+}
+.single-cmdb-text {
+    text-align: right;
+}
+.sp-content.sp-content-2 {
+ 
+    left: 35%;
+}
+.pp-content-1 {
+    text-align: right;
+}
+.pp-img-2-text-2 {
+    text-align: right;
+}
+.page-message-box h3 {
+    left: 0;
+}
+/* .admin {
+    margin-top: 0;
+} */
+.activites {
+    text-align: right;
+}
+
+.blog-tag {
+    text-align: right;
+}
+input.form-control.cp1 {
+    text-align: left;
+}
+.subiscrive-f-update {
+    text-align: right;
+}
+.single-activites {
+    display: inline-block;
+}
+
+.single-blog-post {
+    text-align: right;
+}
+
+.blg-meta ul li i {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+section.another-item h3 {
+    text-align: right;
+}
+.pd-content {
+    text-align: right;
+}
+
+.message-box {
+    text-align: right;
+}
+
+.contect-info {
+    text-align: right;
+}
+
+/*============Responsive===================*/
+
+
+@media only screen and (max-width: 767px) {
+
+    .h-10-image {
+        right: 0;
+    }
+    .ui-ux-content {
+        padding-left: 0;
+        right: 0;
+    }
+    .ui-ux-content-2 {
+        padding: 50px 0px 0px 0px;
+    }
+    .our-mission-content p {
+        padding: 20px 0px 0px 0px;
+    }
+    table.table-2.table-bordered {
+        margin-left: 0;
+        margin-right: auto;
+    }
+    th.close {
+        position: absolute;
+        right: unset;
+        padding: 0;
+        top: 0;
+        left: 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
